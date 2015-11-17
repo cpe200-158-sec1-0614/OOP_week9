@@ -1,0 +1,9 @@
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\bin\Debug\HighLowCardGame2.exe.config
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\obj\Debug\HighLowCardGame2.csprojResolveAssemblyReference.cache
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\bin\Debug\HighLowCardGame2.exe
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\bin\Debug\HighLowCardGame2.pdb
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\obj\Debug\HighLowCardGame2.exe
+C:\Users\supitcha12\Source\Repos\week-12\HighLowCardGame2\HighLowCardGame2\obj\Debug\HighLowCardGame2.pdb
+C:\Users\supitcha12\Source\Repos\OOP_week9\HighLowCardGame2\HighLowCardGame2\bin\Debug\HighLowCardGame2.exe.config
+C:\Users\supitcha12\Source\Repos\OOP_week9\HighLowCardGame2\HighLowCardGame2\obj\Debug\HighLowCardGame2.exe
+C:\Users\supitcha12\Source\Repos\OOP_week9\HighLowCardGame2\HighLowCardGame2\obj\Debug\HighLowCardGame2.pdb
